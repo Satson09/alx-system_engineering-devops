@@ -1,2 +1,2 @@
 #!/bin/bash
-head /etc/passwsd
+tail-10 /etc/passwsd
