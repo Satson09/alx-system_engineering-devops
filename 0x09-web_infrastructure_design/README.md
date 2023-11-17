@@ -16,28 +16,28 @@ Calculation:  0.0% + (0.0% * 0.0%)  == 0.0%
 Concepts
 For this project, we expect you to look at these concepts:
 
-DNS
-Monitoring
-Web Server
-Network basics
-Load balancer
-Server
+DNS https://intranet.alxswe.com/concepts/12
+Monitoring https://intranet.alxswe.com/concepts/13
+Web Server https://intranet.alxswe.com/concepts/13
+Network basics  https://intranet.alxswe.com/concepts/33
+Load balancer https://intranet.alxswe.com/concepts/46
+Server  https://intranet.alxswe.com/concepts/67
 
 Resources
 Read or watch:
 
-Network basics concept page
-Server concept page
-Web server concept page
+Network basics concept page https://www.oracle.com/ke/database/what-is-database/
+Server concept page  https://www.infoworld.com/article/2077354/app-server-web-server-what-s-the-difference.html
+Web server concept page https://www.site24x7.com/learn/dns-record-types.html
 DNS concept page
 Load balancer concept page
 Monitoring concept page
-What is a database
-What’s the difference between a web server and an app server?
-DNS record types
-Single point of failure
-How to avoid downtime when deploying new code
-High availability cluster (active-active/active-passive)
+What is a database  https://www.oracle.com/ke/database/what-is-database/
+What’s the difference between a web server and an app server?  https://www.infoworld.com/article/2077354/app-server-web-server-what-s-the-difference.html
+DNS record types   https://www.site24x7.com/learn/dns-record-types.htm
+Single point of failure  https://avinetworks.com/glossary/single-point-of-failure/
+How to avoid downtime when deploying new code  https://docs.oracle.com/cd/E17904_01/core.1111/e10106/intro.htm#ASHIA712
+High availability cluster (active-active/active-passive)  https://intranet.alxswe.com/rltoken/TAJeVYy9U9iLaEDd6XkbRA
 What is HTTPS
 What is a firewall
 Learning Objectives
