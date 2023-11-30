@@ -39,15 +39,15 @@ That was me ^_^‘: https://twitter.com/devopsreact/status/836971570136375296
 <br>
 
 <center> <h2>Resources<h2> <center>
+----
+<center> <h2>Read or watch:<h2> <center>
 
-Read or watch:
-
-.Intro to Configuration Management
-.Puppet resource type: file (check “Resource types” for all manifest types in the left menu)
-.Puppet’s Declarative Language: Modeling Instead of Scripting
-.Puppet lint
-.Puppet emacs mode
-.Requirements
+Intro to Configuration Management
+Puppet resource type: file (check “Resource types” for all manifest types in the left menu)
+Puppet’s Declarative Language: Modeling Instead of Scripting
+Puppet lint
+Puppet emacs mode
+Requirements
 
 General
 
