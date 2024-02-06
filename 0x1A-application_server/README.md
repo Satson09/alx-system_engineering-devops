@@ -1,4 +1,4 @@
-0x1A. Application server
+Application server
 DevOps
 SysAdmin
  By: Sylvain Kalache, co-founder at Holberton School
