@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x0E. Web stack debugging #1
 DevOps
 SysAdmin
@@ -129,3 +130,6 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x0E-web_stack_debugging_1
 File: 1-debugging_made_short
+=======
+My third readme.
+>>>>>>> 1640554382c4aa30d033dcba5a3b1ef6e5b31e12
