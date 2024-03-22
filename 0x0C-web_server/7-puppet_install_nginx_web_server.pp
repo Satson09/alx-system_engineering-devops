@@ -15,6 +15,13 @@ package { 'nginx':
   ensure     => 'installed',
 }
 
+# allow HTTP
+exec { 'allow HTTP':
+  command => "ufw allow 'Nginx HTTP'",
+  path    => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+  onlyif  => '! dpkg -l nginx | egrep \'îi.*nginx\' > /dev/null 2>&1',
+}
+
 # change folder rights
 exec { 'chmod www folder':
   command => 'chmod -R 755 /var/www',
@@ -70,5 +77,3 @@ service { 'nginx':
   ensure  => running,
   require => Package['nginx'],
 }
-
-
